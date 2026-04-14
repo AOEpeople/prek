@@ -48,7 +48,7 @@ owo-colors = { version = "4.1.0" }
 path-clean = { version = "1.0.1" }
 pprof = { version = "0.15.0" }
 quick-xml = { version = "0.38" }
-rand = { version = "0.9.0" }
+rand = { version = "0.9.3" }
 rayon = { version = "1.10.0" }
 reqwest = { version = "0.12.9", default-features = false, features = ["http2", "stream", "json", "rustls-tls-native-roots", "rustls-tls-webpki-roots"] }
 rustc-hash = { version = "2.1.1" }
